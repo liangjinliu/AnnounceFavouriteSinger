@@ -65,7 +65,7 @@
         <OutArgument x:TypeArguments="x:String">[out_FavouriteSinger]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">Justin Beiber</InArgument>
+        <InArgument x:TypeArguments="x:String">Freddie Mercury</InArgument>
       </Assign.Value>
     </Assign>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="334,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Your favourite singer is &quot; + out_FavouriteSinger]" />
