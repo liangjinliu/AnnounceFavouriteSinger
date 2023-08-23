@@ -1,5 +1,6 @@
 {
   "name": "AnnounceFavouriteSinger",
+  "projectId": "1d21b726-24d2-48db-973b-5b1cd169bcdb",
   "description": "A test process that tells me who my favourite singer is",
   "main": "Main.xaml",
   "dependencies": {
